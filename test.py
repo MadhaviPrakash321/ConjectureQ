@@ -58,7 +58,7 @@ tabs = st.tabs(tab_list)
 with tabs[0]:
     st.header("Problem Statement")
     st.markdown("""
-         **Conjecture (True Form):** \n
+         **Conjecture (True Form):** 
          **Coding Challenge:** 
     """)
 
